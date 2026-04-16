@@ -1,0 +1,34 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260415-202256-rr7q",
+      "title": "Split Push Bruno",
+      "commanders": [
+        "Split Push Bruno"
+      ],
+      "dateStart": "2026-04-16T00:22:56.000Z",
+      "dateEnd": "2026-04-16T02:45:54.000Z",
+      "dateLabel": "4/15/2026, 8:22:56 PM - 4/15/2026, 10:45:54 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260415-202256-rr7q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 45,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 33
+      }
+    }
+  ]
+}
