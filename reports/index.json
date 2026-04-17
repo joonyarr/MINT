@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260416-201006-0g6f",
+      "title": "Brùninho",
+      "commanders": [
+        "Brùninho"
+      ],
+      "dateStart": "2026-04-17T00:10:06.000Z",
+      "dateEnd": "2026-04-17T00:55:09.000Z",
+      "dateLabel": "4/16/2026, 8:10:06 PM - 4/16/2026, 8:55:09 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260416-201006-0g6f",
+      "summary": {
+        "borderlandsPct": 0.7941176470588235,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260415-202256-rr7q",
       "title": "Split Push Bruno",
       "commanders": [
