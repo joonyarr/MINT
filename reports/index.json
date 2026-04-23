@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260422-195347-ft15",
+      "title": "Brùninho",
+      "commanders": [
+        "Brùninho"
+      ],
+      "dateStart": "2026-04-22T23:53:47.000Z",
+      "dateEnd": "2026-04-23T00:36:13.000Z",
+      "dateLabel": "4/22/2026, 7:53:47 PM - 4/22/2026, 8:36:13 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260422-195347-ft15",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260421-122436-2kef",
       "title": "Brùninho",
       "commanders": [
