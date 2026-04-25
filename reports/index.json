@@ -3,6 +3,44 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260424-221208-mvbn",
+      "title": "Brùninho",
+      "commanders": [
+        "Brùninho"
+      ],
+      "dateStart": "2026-04-25T02:12:08.000Z",
+      "dateEnd": "2026-04-25T03:06:38.000Z",
+      "dateLabel": "4/24/2026, 10:12:08 PM - 4/24/2026, 11:06:38 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260424-221208-mvbn",
+      "summary": {
+        "borderlandsPct": 0.7288135593220338,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260423-200649-js6x",
       "title": "Untamed Bruno",
       "commanders": [
