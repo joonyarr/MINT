@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260425-232314-clrh",
+      "title": "Low Key Toxic",
+      "commanders": [
+        "Low Key Toxic"
+      ],
+      "dateStart": "2026-04-26T03:23:14.000Z",
+      "dateEnd": "2026-04-26T03:52:35.000Z",
+      "dateLabel": "4/25/2026, 11:23:14 PM - 4/25/2026, 11:52:35 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260425-232314-clrh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 60,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260425-232314-0dib",
       "title": "Low Key Toxic",
       "commanders": [
