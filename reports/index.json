@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260425-223822-nnt0",
+      "title": "Dxshka Vol, On Desh",
+      "commanders": [
+        "Dxshka Vol",
+        "On Desh"
+      ],
+      "dateStart": "2026-04-26T02:38:22.000Z",
+      "dateEnd": "2026-04-26T03:04:41.000Z",
+      "dateLabel": "4/25/2026, 10:38:22 PM - 4/25/2026, 11:04:41 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260425-223822-nnt0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 29,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260425-124150-b04i",
       "title": "Brùninho, Plush Bruno",
       "commanders": [
