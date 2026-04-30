@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260429-201259-as2b",
+      "title": "Untamed Bruno",
+      "commanders": [
+        "Untamed Bruno"
+      ],
+      "dateStart": "2026-04-30T00:12:59.000Z",
+      "dateEnd": "2026-04-30T00:46:23.000Z",
+      "dateLabel": "4/29/2026, 8:12:59 PM - 4/29/2026, 8:46:23 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260429-201259-as2b",
+      "summary": {
+        "borderlandsPct": 0.07526881720430108,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 86,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260428-205203-sk18",
       "title": "Its Brúno, Split Push Bruno",
       "commanders": [
