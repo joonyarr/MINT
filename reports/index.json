@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260501-220835-skbh",
+      "title": "Bruno Ad",
+      "commanders": [
+        "Bruno Ad"
+      ],
+      "dateStart": "2026-05-02T02:08:35.000Z",
+      "dateEnd": "2026-05-02T02:57:52.000Z",
+      "dateLabel": "5/1/2026, 10:08:35 PM - 5/1/2026, 10:57:52 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260501-220835-skbh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 44,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260430-195827-ou59",
       "title": "Untamed Bruno",
       "commanders": [
