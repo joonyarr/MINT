@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260503-141746-cf3x",
+      "title": "Low Key Toxic",
+      "commanders": [
+        "Low Key Toxic"
+      ],
+      "dateStart": "2026-05-03T18:17:46.000Z",
+      "dateEnd": "2026-05-03T18:55:17.000Z",
+      "dateLabel": "5/3/2026, 2:17:46 PM - 5/3/2026, 2:55:17 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260503-141746-cf3x",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 2,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260502-201722-1kic",
       "title": "Bruno Ad, Untamed Bruno",
       "commanders": [
