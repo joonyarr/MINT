@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260504-181905-np85",
+      "title": "Untamed Bruno",
+      "commanders": [
+        "Untamed Bruno"
+      ],
+      "dateStart": "2026-05-04T22:19:05.000Z",
+      "dateEnd": "2026-05-04T22:40:43.000Z",
+      "dateLabel": "5/4/2026, 6:19:05 PM - 5/4/2026, 6:40:43 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260504-181905-np85",
+      "summary": {
+        "borderlandsPct": 0.475,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 63,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 43,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260503-223649-ov8n",
       "title": "Momentum Bruno",
       "commanders": [
