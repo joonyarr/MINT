@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260506-192923-2xa8",
+      "title": "Cooked Bruno",
+      "commanders": [
+        "Cooked Bruno"
+      ],
+      "dateStart": "2026-05-06T23:29:23.000Z",
+      "dateEnd": "2026-05-07T00:10:39.000Z",
+      "dateLabel": "5/6/2026, 7:29:23 PM - 5/6/2026, 8:10:39 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260506-192923-2xa8",
+      "summary": {
+        "borderlandsPct": 0.21839080459770116,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 68,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260505-220326-knft",
       "title": "Bruno Myz",
       "commanders": [
