@@ -3,6 +3,44 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260512-201356-d3n1",
+      "title": "Bruno Myz",
+      "commanders": [
+        "Bruno Myz"
+      ],
+      "dateStart": "2026-05-13T00:13:56.000Z",
+      "dateEnd": "2026-05-13T00:32:28.000Z",
+      "dateLabel": "5/12/2026, 8:13:56 PM - 5/12/2026, 8:32:28 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260512-201356-d3n1",
+      "summary": {
+        "borderlandsPct": 0.6451612903225806,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 40,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260511-203256-61sf",
       "title": "Brùninho",
       "commanders": [
