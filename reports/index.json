@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260518-211206-khwd",
+      "title": "Cooked Bruno",
+      "commanders": [
+        "Cooked Bruno"
+      ],
+      "dateStart": "2026-05-19T01:12:06.000Z",
+      "dateEnd": "2026-05-19T01:45:05.000Z",
+      "dateLabel": "5/18/2026, 9:12:06 PM - 5/18/2026, 9:45:05 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260518-211206-khwd",
+      "summary": {
+        "borderlandsPct": 0.9555555555555556,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 43,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 2,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260512-201356-d3n1",
       "title": "Bruno Myz",
       "commanders": [
