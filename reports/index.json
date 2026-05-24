@@ -1,7 +1,37 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260523-214257-f7nm",
+      "title": "Dark Penguin Prime, Its Brúno",
+      "commanders": [
+        "Dark Penguin Prime",
+        "Its Brúno"
+      ],
+      "dateStart": "2026-05-24T01:42:57.000Z",
+      "dateEnd": "2026-05-24T02:27:38.000Z",
+      "dateLabel": "5/23/2026, 9:42:57 PM - 5/23/2026, 10:27:38 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260523-214257-f7nm",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20260522-220905-b9f2",
       "title": "Its Brúno",
