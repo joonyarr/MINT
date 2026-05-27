@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-205113-a2yv",
+      "title": "Momentum Bruno, Pararatimbum",
+      "commanders": [
+        "Momentum Bruno",
+        "Pararatimbum"
+      ],
+      "dateStart": "2026-05-27T00:51:13.000Z",
+      "dateEnd": "2026-05-27T01:57:53.000Z",
+      "dateLabel": "5/26/2026, 8:51:13 PM - 5/26/2026, 9:57:53 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260526-205113-a2yv",
+      "summary": {
+        "borderlandsPct": 0.21621621621621623,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260525-230719-muql",
       "title": "Typemander",
       "commanders": [
