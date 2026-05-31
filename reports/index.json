@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260530-224525-9bx8",
+      "title": "Its Brúno",
+      "commanders": [
+        "Its Brúno"
+      ],
+      "dateStart": "2026-05-31T02:45:25.000Z",
+      "dateEnd": "2026-05-31T03:02:36.000Z",
+      "dateLabel": "5/30/2026, 10:45:25 PM - 5/30/2026, 11:02:36 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260530-224525-9bx8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260527-203550-ahau",
       "title": "Notoriety Abuser",
       "commanders": [
