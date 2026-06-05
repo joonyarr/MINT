@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260604-210822-b3r2",
+      "title": "Brúninho",
+      "commanders": [
+        "Brúninho"
+      ],
+      "dateStart": "2026-06-05T01:08:22.000Z",
+      "dateEnd": "2026-06-05T01:48:39.000Z",
+      "dateLabel": "6/4/2026, 9:08:22 PM - 6/4/2026, 9:48:39 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260604-210822-b3r2",
+      "summary": {
+        "borderlandsPct": 0.2777777777777778,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260603-220002-k798",
       "title": "Plush Bruno",
       "commanders": [
