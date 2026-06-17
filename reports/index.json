@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-201104-l68c",
+      "title": "Cooked Bruno",
+      "commanders": [
+        "Cooked Bruno"
+      ],
+      "dateStart": "2026-06-17T00:11:04.000Z",
+      "dateEnd": "2026-06-17T00:42:48.000Z",
+      "dateLabel": "6/16/2026, 8:11:04 PM - 6/16/2026, 8:42:48 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260616-201104-l68c",
+      "summary": {
+        "borderlandsPct": 0.2,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260615-203850-yoy1",
       "title": "Cooked Bruno",
       "commanders": [
