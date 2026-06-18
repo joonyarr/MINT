@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260617-211100-d8h9",
+      "title": "Liminal Dreams, Split Push Bruno",
+      "commanders": [
+        "Liminal Dreams",
+        "Split Push Bruno"
+      ],
+      "dateStart": "2026-06-18T01:11:00.000Z",
+      "dateEnd": "2026-06-18T02:09:38.000Z",
+      "dateLabel": "6/17/2026, 9:11:00 PM - 6/17/2026, 10:09:38 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260617-211100-d8h9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260616-201104-l68c",
       "title": "Cooked Bruno",
       "commanders": [
