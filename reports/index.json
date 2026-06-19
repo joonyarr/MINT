@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260618-201728-1n3g",
+      "title": "Bruno Is A Rallybot",
+      "commanders": [
+        "Bruno Is A Rallybot"
+      ],
+      "dateStart": "2026-06-19T00:17:28.000Z",
+      "dateEnd": "2026-06-19T00:45:43.000Z",
+      "dateLabel": "6/18/2026, 8:17:28 PM - 6/18/2026, 8:45:43 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260618-201728-1n3g",
+      "summary": {
+        "borderlandsPct": 0.5671641791044776,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 38,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260617-211100-d8h9",
       "title": "Liminal Dreams, Split Push Bruno",
       "commanders": [
