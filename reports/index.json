@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-194114-2d1t",
+      "title": "Brúninho",
+      "commanders": [
+        "Brúninho"
+      ],
+      "dateStart": "2026-06-28T23:41:14.000Z",
+      "dateEnd": "2026-06-29T00:24:54.000Z",
+      "dateLabel": "6/28/2026, 7:41:14 PM - 6/28/2026, 8:24:54 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260628-194114-2d1t",
+      "summary": {
+        "borderlandsPct": 0.5061728395061729,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260627-180025-9q55",
       "title": "Unknown Commander",
       "commanders": [],
