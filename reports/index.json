@@ -4,39 +4,6 @@
   "glassmorphic": false,
   "entries": [
     {
-      "id": "20260629-222052-u1qa",
-      "title": "Brúninho",
-      "commanders": [
-        "Brúninho"
-      ],
-      "dateStart": "2026-06-30T02:20:52.000Z",
-      "dateEnd": "2026-06-30T03:04:51.000Z",
-      "dateLabel": "6/29/2026, 10:20:52 PM - 6/29/2026, 11:04:51 PM",
-      "url": "https://joonyarr.github.io/MINT/?report=20260629-222052-u1qa",
-      "summary": {
-        "borderlandsPct": 0.42857142857142855,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 44,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 23,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 10,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 7,
-        "avgEnemySize": 24
-      }
-    },
-    {
       "id": "20260629-200303-6vw6",
       "title": "Brúninho, Brúnomancer",
       "commanders": [
