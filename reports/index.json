@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260630-203252-zoo5",
+      "title": "Plush Bruno",
+      "commanders": [
+        "Plush Bruno"
+      ],
+      "dateStart": "2026-07-01T00:32:52.000Z",
+      "dateEnd": "2026-07-01T01:15:53.000Z",
+      "dateLabel": "6/30/2026, 8:32:52 PM - 6/30/2026, 9:15:53 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260630-203252-zoo5",
+      "summary": {
+        "borderlandsPct": 0.5633802816901409,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 39,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260629-200303-6vw6",
       "title": "Brúninho, Brúnomancer",
       "commanders": [
