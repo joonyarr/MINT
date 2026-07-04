@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260703-220932-hqd3",
+      "title": "Its Brúno",
+      "commanders": [
+        "Its Brúno"
+      ],
+      "dateStart": "2026-07-04T02:09:32.000Z",
+      "dateEnd": "2026-07-04T02:46:25.000Z",
+      "dateLabel": "7/3/2026, 10:09:32 PM - 7/3/2026, 10:46:25 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260703-220932-hqd3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 43,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260630-203252-zoo5",
       "title": "Plush Bruno",
       "commanders": [
