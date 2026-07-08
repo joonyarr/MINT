@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260707-205722-hqvu",
+      "title": "Its Brúno",
+      "commanders": [
+        "Its Brúno"
+      ],
+      "dateStart": "2026-07-08T00:57:22.000Z",
+      "dateEnd": "2026-07-08T01:36:14.000Z",
+      "dateLabel": "7/7/2026, 8:57:22 PM - 7/7/2026, 9:36:14 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260707-205722-hqvu",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260706-195049-jzzz",
       "title": "Brùninho",
       "commanders": [
