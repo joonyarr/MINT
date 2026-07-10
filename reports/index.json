@@ -4,32 +4,6 @@
   "glassmorphic": false,
   "entries": [
     {
-      "id": "20260709-203940-23jv",
-      "title": "Unknown Commander",
-      "commanders": [],
-      "dateStart": "2026-07-10T00:39:40.000Z",
-      "dateEnd": "2026-07-10T01:30:19.000Z",
-      "dateLabel": "7/9/2026, 8:39:40 PM - 7/9/2026, 9:30:19 PM",
-      "url": "https://joonyarr.github.io/MINT/?report=20260709-203940-23jv",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 31,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 3,
-        "avgEnemySize": 21
-      }
-    },
-    {
       "id": "20260708-230450-k8m0",
       "title": "Its Brúno",
       "commanders": [
