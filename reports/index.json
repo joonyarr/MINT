@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260710-221448-6jvy",
+      "title": "Bruno Ad",
+      "commanders": [
+        "Bruno Ad"
+      ],
+      "dateStart": "2026-07-11T02:14:48.000Z",
+      "dateEnd": "2026-07-11T02:36:06.000Z",
+      "dateLabel": "7/10/2026, 10:14:48 PM - 7/10/2026, 10:36:06 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260710-221448-6jvy",
+      "summary": {
+        "borderlandsPct": 0.3902439024390244,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260709-203940-eyxi",
       "title": "Unknown Commander",
       "commanders": [],
