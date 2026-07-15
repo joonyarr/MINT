@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260714-202150-qn0y",
+      "title": "Iced Mint Milk Tea",
+      "commanders": [
+        "Iced Mint Milk Tea"
+      ],
+      "dateStart": "2026-07-15T00:21:50.000Z",
+      "dateEnd": "2026-07-15T01:26:04.000Z",
+      "dateLabel": "7/14/2026, 8:21:50 PM - 7/14/2026, 9:26:04 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260714-202150-qn0y",
+      "summary": {
+        "borderlandsPct": 0.6875,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260713-202358-0yam",
       "title": "Its Brúno",
       "commanders": [
