@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-204713-mfwj",
+      "title": "Bruno Is A Rallybot",
+      "commanders": [
+        "Bruno Is A Rallybot"
+      ],
+      "dateStart": "2026-07-17T00:47:13.000Z",
+      "dateEnd": "2026-07-17T01:09:55.000Z",
+      "dateLabel": "7/16/2026, 8:47:13 PM - 7/16/2026, 9:09:55 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260716-204713-mfwj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260714-202150-qn0y",
       "title": "Iced Mint Milk Tea",
       "commanders": [
