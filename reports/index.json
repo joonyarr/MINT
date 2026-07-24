@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-210342-8l23",
+      "title": "Bruno Ap",
+      "commanders": [
+        "Bruno Ap"
+      ],
+      "dateStart": "2026-07-24T01:03:42.000Z",
+      "dateEnd": "2026-07-24T01:37:43.000Z",
+      "dateLabel": "7/23/2026, 9:03:42 PM - 7/23/2026, 9:37:43 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260723-210342-8l23",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260722-230428-j4mv",
       "title": "Plush Bruno",
       "commanders": [
