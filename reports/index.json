@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-201945-s8ab",
+      "title": "Momentum Bruno",
+      "commanders": [
+        "Momentum Bruno"
+      ],
+      "dateStart": "2026-07-27T00:19:45.000Z",
+      "dateEnd": "2026-07-27T00:42:28.000Z",
+      "dateLabel": "7/26/2026, 8:19:45 PM - 7/26/2026, 8:42:28 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260726-201945-s8ab",
+      "summary": {
+        "borderlandsPct": 0.49056603773584906,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 54,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260725-190348-60ws",
       "title": "Iced Mint Milk Tea",
       "commanders": [
