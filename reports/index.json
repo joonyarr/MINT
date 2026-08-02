@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-215124-a7bv",
+      "title": "Its Brúno",
+      "commanders": [
+        "Its Brúno"
+      ],
+      "dateStart": "2026-08-02T01:51:24.000Z",
+      "dateEnd": "2026-08-02T02:14:16.000Z",
+      "dateLabel": "8/1/2026, 9:51:24 PM - 8/1/2026, 10:14:16 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260801-215124-a7bv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260727-121742-tp9c",
       "title": "Brúninho, Plush Bruno",
       "commanders": [
