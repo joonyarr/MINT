@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-201627-9w8r",
+      "title": "Cooked Bruno",
+      "commanders": [
+        "Cooked Bruno"
+      ],
+      "dateStart": "2026-08-03T00:16:27.000Z",
+      "dateEnd": "2026-08-03T00:46:59.000Z",
+      "dateLabel": "8/2/2026, 8:16:27 PM - 8/2/2026, 8:46:59 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260802-201627-9w8r",
+      "summary": {
+        "borderlandsPct": 0.475,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 38,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260801-215124-a7bv",
       "title": "Its Brúno",
       "commanders": [
