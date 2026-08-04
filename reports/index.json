@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-205717-s5fb",
+      "title": "Brúninho",
+      "commanders": [
+        "Brúninho"
+      ],
+      "dateStart": "2026-08-04T00:57:17.000Z",
+      "dateEnd": "2026-08-04T01:12:40.000Z",
+      "dateLabel": "8/3/2026, 8:57:17 PM - 8/3/2026, 9:12:40 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260803-205717-s5fb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260802-201627-9w8r",
       "title": "Cooked Bruno",
       "commanders": [
