@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-210646-yfvt",
+      "title": "Split Push Bruno",
+      "commanders": [
+        "Split Push Bruno"
+      ],
+      "dateStart": "2026-08-07T01:06:46.000Z",
+      "dateEnd": "2026-08-07T01:43:13.000Z",
+      "dateLabel": "8/6/2026, 9:06:46 PM - 8/6/2026, 9:43:13 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260806-210646-yfvt",
+      "summary": {
+        "borderlandsPct": 0.6578947368421053,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260805-195647-e5l2",
       "title": "Bruno Ad",
       "commanders": [
