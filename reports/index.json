@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-220204-sb3j",
+      "title": "Bruno Chars",
+      "commanders": [
+        "Bruno Chars"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-08-19T02:02:04.000Z",
+      "dateEnd": "2026-08-19T02:17:51.000Z",
+      "dateLabel": "8/18/2026, 10:02:04 PM - 8/18/2026, 10:17:51 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260818-220204-sb3j",
+      "summary": {
+        "borderlandsPct": 0.8333333333333334,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260817-194241-io9w",
       "title": "Brúnomancer",
       "commanders": [
