@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-220436-m2z0",
+      "title": "Bruno Ap, Typemander",
+      "commanders": [
+        "Bruno Ap",
+        "Typemander"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-02T02:04:36.000Z",
+      "dateEnd": "2026-09-02T02:53:46.337Z",
+      "dateLabel": "9/1/2026, 10:04:36 PM - 9/1/2026, 10:53:46 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260901-220436-m2z0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260901-181351-njws",
       "title": "Its Brúno",
       "commanders": [
