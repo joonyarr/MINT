@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-181351-njws",
+      "title": "Its Brúno",
+      "commanders": [
+        "Its Brúno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-01T22:13:51.000Z",
+      "dateEnd": "2026-09-02T01:46:21.495Z",
+      "dateLabel": "9/1/2026, 6:13:51 PM - 9/1/2026, 9:46:21 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260901-181351-njws",
+      "summary": {
+        "borderlandsPct": 0.02631578947368421,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 74,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 2,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260831-190326-z10p",
       "title": "Unknown Commander",
       "commanders": [],
