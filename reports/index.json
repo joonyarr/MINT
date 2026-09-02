@@ -4,38 +4,6 @@
   "glassmorphic": false,
   "entries": [
     {
-      "id": "20260901-181351-6xu1",
-      "title": "Unknown Commander",
-      "commanders": [],
-      "guild": null,
-      "dateStart": "2026-09-01T22:13:51.000Z",
-      "dateEnd": "2026-09-01T22:27:49.455Z",
-      "dateLabel": "9/1/2026, 6:13:51 PM - 9/1/2026, 6:27:49 PM",
-      "url": "https://joonyarr.github.io/MINT/?report=20260901-181351-6xu1",
-      "summary": {
-        "borderlandsPct": 0.22916666666666666,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 74,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 21,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 10,
-        "avgEnemySize": 23
-      }
-    },
-    {
       "id": "20260831-190326-z10p",
       "title": "Unknown Commander",
       "commanders": [],
