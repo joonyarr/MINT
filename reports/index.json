@@ -4,6 +4,41 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-201948-a0am",
+      "title": "Bruno Ad, Bruno Is A Rallybot, Low Key Toxic",
+      "commanders": [
+        "Bruno Ad",
+        "Bruno Is A Rallybot",
+        "Low Key Toxic"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-04T00:19:48.000Z",
+      "dateEnd": "2026-09-04T00:53:31.274Z",
+      "dateLabel": "9/3/2026, 8:19:48 PM - 9/3/2026, 8:53:31 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260903-201948-a0am",
+      "summary": {
+        "borderlandsPct": 0.8444444444444444,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 38,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260901-220436-m2z0",
       "title": "Bruno Ap, Typemander",
       "commanders": [
