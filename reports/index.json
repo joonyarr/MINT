@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-203959-jarh",
+      "title": "Reformed Bruno",
+      "commanders": [
+        "Reformed Bruno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-06T00:39:59.000Z",
+      "dateEnd": "2026-09-06T01:16:07.642Z",
+      "dateLabel": "9/5/2026, 8:39:59 PM - 9/5/2026, 9:16:07 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260905-203959-jarh",
+      "summary": {
+        "borderlandsPct": 0.6829268292682927,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260904-220741-5pmo",
       "title": "Twilight Oasis",
       "commanders": [
