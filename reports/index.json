@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-220857-g0vu",
+      "title": "Hardstuck Bruno",
+      "commanders": [
+        "Hardstuck Bruno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-12T02:08:57.000Z",
+      "dateEnd": "2026-09-12T02:49:07.021Z",
+      "dateLabel": "9/11/2026, 10:08:57 PM - 9/11/2026, 10:49:07 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260911-220857-g0vu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260910-211729-3ikl",
       "title": "Unknown Commander",
       "commanders": [],
