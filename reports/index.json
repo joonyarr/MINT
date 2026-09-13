@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-124643-sr08",
+      "title": "Bruno Chars",
+      "commanders": [
+        "Bruno Chars"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-12T16:46:43.000Z",
+      "dateEnd": "2026-09-12T17:19:26.415Z",
+      "dateLabel": "9/12/2026, 12:46:43 PM - 9/12/2026, 1:19:26 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260912-124643-sr08",
+      "summary": {
+        "borderlandsPct": 0.4166666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 31,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260911-220857-g0vu",
       "title": "Hardstuck Bruno",
       "commanders": [
