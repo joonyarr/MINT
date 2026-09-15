@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-210758-43yz",
+      "title": "M V P Bruno",
+      "commanders": [
+        "M V P Bruno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-15T01:07:58.000Z",
+      "dateEnd": "2026-09-15T01:34:26.104Z",
+      "dateLabel": "9/14/2026, 9:07:58 PM - 9/14/2026, 9:34:26 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260914-210758-43yz",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260914-195638-kbbd",
       "title": "Magician Of Drascir",
       "commanders": [
