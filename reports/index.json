@@ -2,7 +2,42 @@
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260922-215207-diyi",
+      "title": "Its Brúno, Twilight Oasis",
+      "commanders": [
+        "Its Brúno",
+        "Twilight Oasis"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-23T01:52:07.000Z",
+      "dateEnd": "2026-09-23T03:30:49.170Z",
+      "dateLabel": "9/22/2026, 9:52:07 PM - 9/22/2026, 11:30:49 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260922-215207-diyi",
+      "summary": {
+        "borderlandsPct": 0.41379310344827586,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 29
+      }
+    },
     {
       "id": "20260920-143230-zym3",
       "title": "Unknown Commander",
