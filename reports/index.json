@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260923-195028-3baj",
+      "title": "Brùninho",
+      "commanders": [
+        "Brùninho"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-23T23:50:28.000Z",
+      "dateEnd": "2026-09-24T01:28:23.521Z",
+      "dateLabel": "9/23/2026, 7:50:28 PM - 9/23/2026, 9:28:23 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260923-195028-3baj",
+      "summary": {
+        "borderlandsPct": 0.06153846153846154,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 61,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260922-215207-diyi",
       "title": "Its Brúno, Twilight Oasis",
       "commanders": [
