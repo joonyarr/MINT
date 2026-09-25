@@ -5,6 +5,45 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260924-202521-zyiz",
+      "title": "Brùninho, Its Brúno",
+      "commanders": [
+        "Brùninho",
+        "Its Brúno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-25T00:25:21.000Z",
+      "dateEnd": "2026-09-25T01:07:38.573Z",
+      "dateLabel": "9/24/2026, 8:25:21 PM - 9/24/2026, 9:07:38 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260924-202521-zyiz",
+      "summary": {
+        "borderlandsPct": 0.6388888888888888,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 44,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260923-195028-3baj",
       "title": "Brùninho",
       "commanders": [
