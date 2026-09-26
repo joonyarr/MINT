@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260925-220827-dzb3",
+      "title": "Liminal Dreams",
+      "commanders": [
+        "Liminal Dreams"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-26T02:08:27.000Z",
+      "dateEnd": "2026-09-26T02:50:11.594Z",
+      "dateLabel": "9/25/2026, 10:08:27 PM - 9/25/2026, 10:50:11 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260925-220827-dzb3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 57,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260924-202521-zyiz",
       "title": "Brùninho, Its Brúno",
       "commanders": [
