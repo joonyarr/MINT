@@ -5,6 +5,45 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260926-230529-8v2z",
+      "title": "Hardstuck Bruno, Split Push Bruno",
+      "commanders": [
+        "Hardstuck Bruno",
+        "Split Push Bruno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-27T03:05:29.000Z",
+      "dateEnd": "2026-09-27T04:03:34.899Z",
+      "dateLabel": "9/26/2026, 11:05:29 PM - 9/27/2026, 12:03:34 AM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260926-230529-8v2z",
+      "summary": {
+        "borderlandsPct": 0.5549132947976878,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 84,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 77,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260925-220827-dzb3",
       "title": "Liminal Dreams",
       "commanders": [
