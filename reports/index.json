@@ -5,6 +5,47 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-164900-k3zt",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-27T20:49:00.000Z",
+      "dateEnd": "2026-09-28T00:07:25.657Z",
+      "dateLabel": "9/27/2026, 4:49:00 PM - 9/27/2026, 8:07:25 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260927-164900-k3zt",
+      "summary": {
+        "borderlandsPct": 0.2605042016806723,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 88,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260926-230529-8v2z",
       "title": "Hardstuck Bruno, Split Push Bruno",
       "commanders": [
