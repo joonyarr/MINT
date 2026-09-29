@@ -5,6 +5,49 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260928-171639-pchz",
+      "title": "Twilight Oasis",
+      "commanders": [
+        "Twilight Oasis"
+      ],
+      "guild": {
+        "id": "FA571253-7C4F-EF11-BA1F-06F2763BE7D0",
+        "name": "Nyx Equinox",
+        "tag": "NYX"
+      },
+      "dateStart": "2026-09-28T21:16:39.000Z",
+      "dateEnd": "2026-09-28T21:39:28.678Z",
+      "dateLabel": "9/28/2026, 5:16:39 PM - 9/28/2026, 5:39:28 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260928-171639-pchz",
+      "summary": {
+        "borderlandsPct": 0.24,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 76,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260927-164900-k3zt",
       "title": "Unknown Commander",
       "commanders": [],
