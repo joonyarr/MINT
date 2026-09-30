@@ -5,6 +5,40 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260929-202431-ja38",
+      "title": "Its Brúno, Split Push Bruno",
+      "commanders": [
+        "Its Brúno",
+        "Split Push Bruno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-30T00:24:31.000Z",
+      "dateEnd": "2026-09-30T02:01:21.019Z",
+      "dateLabel": "9/29/2026, 8:24:31 PM - 9/29/2026, 10:01:21 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20260929-202431-ja38",
+      "summary": {
+        "borderlandsPct": 0.13636363636363635,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260928-171639-pchz",
       "title": "Twilight Oasis",
       "commanders": [
