@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261004-205040-shmb",
+      "title": "Magician Of Drascir",
+      "commanders": [
+        "Magician Of Drascir"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-10-05T00:50:40.000Z",
+      "dateEnd": "2026-10-05T01:17:35.749Z",
+      "dateLabel": "10/4/2026, 8:50:40 PM - 10/4/2026, 9:17:35 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20261004-205040-shmb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261003-194230-dx63",
       "title": "Bruno Chars",
       "commanders": [
