@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261020-212625-nsc6",
+      "title": "M V P Bruno",
+      "commanders": [
+        "M V P Bruno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-10-21T01:26:25.000Z",
+      "dateEnd": "2026-10-21T02:33:57.454Z",
+      "dateLabel": "10/20/2026, 9:26:25 PM - 10/20/2026, 10:33:57 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20261020-212625-nsc6",
+      "publishedBy": "joonyarr",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261019-193943-6zoo",
       "title": "Brùninho",
       "commanders": [
