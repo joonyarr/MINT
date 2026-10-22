@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261021-194451-s41m",
+      "title": "Hardstuck Bruno",
+      "commanders": [
+        "Hardstuck Bruno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-10-21T23:44:51.000Z",
+      "dateEnd": "2026-10-22T00:15:48.053Z",
+      "dateLabel": "10/21/2026, 7:44:51 PM - 10/21/2026, 8:15:48 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20261021-194451-s41m",
+      "publishedBy": "joonyarr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 59,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261020-212625-nsc6",
       "title": "M V P Bruno",
       "commanders": [
