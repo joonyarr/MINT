@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261022-193049-cow5",
+      "title": "Hardstuck Bruno",
+      "commanders": [
+        "Hardstuck Bruno"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-10-22T23:30:49.000Z",
+      "dateEnd": "2026-10-22T23:42:55.525Z",
+      "dateLabel": "10/22/2026, 7:30:49 PM - 10/22/2026, 7:42:55 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20261022-193049-cow5",
+      "publishedBy": "joonyarr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 2,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261021-194451-s41m",
       "title": "Hardstuck Bruno",
       "commanders": [
