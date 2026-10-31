@@ -5,9 +5,48 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261031-001143-iyhc",
+      "title": "Brúninho",
+      "commanders": [
+        "Brúninho"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-10-31T04:11:43.000Z",
+      "dateEnd": "2026-10-31T04:43:38.873Z",
+      "dateLabel": "10/31/2026, 12:11:43 AM - 10/31/2026, 12:43:38 AM",
+      "url": "https://joonyarr.github.io/MINT/?report=20261031-001143-iyhc",
+      "publishedBy": "joonyarr",
+      "summary": {
+        "borderlandsPct": 0.26666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 26
+      }
+    },
     {
       "id": "20261022-193049-cow5",
       "title": "Hardstuck Bruno",
