@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261101-222045-fhp2",
+      "title": "Penguinz Is Chilly",
+      "commanders": [
+        "Penguinz Is Chilly"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-11-02T03:20:45.000Z",
+      "dateEnd": "2026-11-02T04:14:07.038Z",
+      "dateLabel": "11/1/2026, 10:20:45 PM - 11/1/2026, 11:14:07 PM",
+      "url": "https://joonyarr.github.io/MINT/?report=20261101-222045-fhp2",
+      "publishedBy": "joonyarr",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 72,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20261031-001143-iyhc",
       "title": "Brúninho",
       "commanders": [
